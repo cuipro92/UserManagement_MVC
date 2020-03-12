@@ -11,7 +11,7 @@ Login
 Search
 Add
 Edit
-Xóa
+Delete
 division of powers
 2. Images
 
